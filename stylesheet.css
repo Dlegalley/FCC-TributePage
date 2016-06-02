@@ -1,0 +1,41 @@
+html {
+height: 1700px;
+}
+
+.Head {
+  text-align: center;
+  
+}
+
+.Topimg {
+  background-color: white;
+  align-content: center;
+}
+.Topimg p {
+  font-size: 14px;
+}
+.imgWrap .Topimg {
+  
+  display: block;
+  padding: 4px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  line-height: 1.42857143;
+  border: 1px solid white;
+  
+}
+
+#timeLinewrap {
+  width: 620px;
+  position: relative;
+  left: 320px;
+  text-wrap: 
+}
+.indianlies {
+  font-size: 20px;
+  left: 345px;
+  position: relative;
+  align-content: left;
+  
+}
+

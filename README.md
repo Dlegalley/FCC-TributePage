@@ -1,2 +1,0 @@
-# FCC-TributePage
-Tribute Page
